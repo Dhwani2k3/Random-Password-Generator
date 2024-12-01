@@ -58,12 +58,12 @@ The interface of the Random Password Generator consists of the following element
 ## 7. Screenshots
 
 <div style="display: flex; justify-content: center; gap: 50px;">
-    <img src="pics/passwordgeneratorss1.png" alt="Stock Price Tracker in Action" width="500" height="400" />
-    <img src="pics/dpasswordgeneratorss2.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+    <img src="pics/randompasswordss1.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+    <img src="pics/randompasswordss2.png" alt="Stock Price Tracker in Action" width="500" height="400" />
 </div>
 <div style="display: flex; justify-content: center; gap: 50px;">
-    <img src="pics/passwordgeneratorss3.png" alt="Stock Price Tracker in Action" width="500" height="400" />
-    <img src="pics/passwordgeneratorss4.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+    <img src="pics/randompasswordss3.png" alt="Stock Price Tracker in Action" width="500" height="400" />
+    <img src="pics/randompasswordss4.png" alt="Stock Price Tracker in Action" width="500" height="400" />
 </div>
 
 ## 8. Troubleshooting
